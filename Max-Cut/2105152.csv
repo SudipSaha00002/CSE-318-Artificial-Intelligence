@@ -1,0 +1,4 @@
+Name  |V| or n  |E| or m   Simple Randomized    Simple Greedy   Semi-greedy   Simple local iterations   Simple local Average value   GRASP iterations    GRASP Best value    Alpha    Known best solution
+g1      800       19176      9579                 11346           11148                6                    11366                       50                   11456           0.500        12078                
+g2      800       19176      9588                 11204           11149                6                    11371                       50                   11464           0.500        12084                
+g3      800       19176      9569                 11254           11160                6                    11367                       50                   11467           0.500        12077                

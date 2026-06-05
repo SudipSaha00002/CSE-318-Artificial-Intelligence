@@ -1,0 +1,20 @@
+# Compiled C++ Binaries
+*.exe
+*.o
+*.out
+n_puzzle_solver
+max_cut_solver
+decision_tree
+
+# Python Caches & Temporary Files
+__pycache__/
+*.py[cod]
+*$py.class
+*.tmp
+gamestate.txt.tmp
+
+# Editor/OS Specific Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
