@@ -47,5 +47,3 @@ A custom-implemented Decision Tree Classifier built from scratch to train on dis
 *   💻 **[Solution Code](./Decision%20Tree/Decision%20Tree.cpp)**
 
 ---
-
-*All implementations and solutions have been verified against course standards.*
